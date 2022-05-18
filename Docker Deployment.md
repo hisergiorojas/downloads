@@ -407,6 +407,8 @@ Upload a problem and test it.
   ```
   ./google-cloud-sdk/bin/gcloud init
   ```
+  
+  
 
 5. Confirm the installation with the following command
 ```
@@ -443,6 +445,9 @@ gcloud --version
   ```
   aws --version
   ```
+![awsversion](https://user-images.githubusercontent.com/48057303/169159703-36d8c16e-d75b-4bad-bcfa-32a98e89561d.png)
+
+
 
 5. Configure AWS CLI [instruction](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-quickstart.html)
 
@@ -459,7 +464,7 @@ AWS CLI prompts you for four pieces of information:
   - AWS Region
   - Output format
 
-![awsconfigure.png](/home/sergiorojas/Downloads/awsconfigure.png)
+![awsconfigure](https://user-images.githubusercontent.com/48057303/169159727-4ced9d55-dbfb-405f-93ea-9be3e87bf743.png)
 
 
 ## Step 3: Authenticate with Google Cloud Container Registry
