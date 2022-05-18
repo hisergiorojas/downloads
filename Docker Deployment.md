@@ -8,7 +8,6 @@ Codecheck is an anonymous, author-friendly autograder. It is optimized for simpl
 
 
 
-![Codecheck - Student view](/home/sergiorojas/Downloads/My%20project%20(1).png)
 
 
 Program Structure
@@ -606,6 +605,10 @@ Alternatively, you can test with the locally running web app. In
   - Under Capacity you can change the Memory and CPU settings
   - Under Capacity you can change the Maximum requests per container (Concurrency)
   - Under Autoscaling you can change the Minimum and Maximum instances
+  - Click on Deploy
+
+![autoscalingDeploy](https://user-images.githubusercontent.com/48057303/169094166-0cb64427-8354-4d9d-9068-da17eafde614.png)
+
 
 
 
