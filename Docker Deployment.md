@@ -329,8 +329,11 @@ This command downloads a test image and runs it in a container. When the contain
   ```
 
   
-![verifycomrundocker.png](/home/sergiorojas/Downloads/verifycomrundocker.png)
   
+
+![verifycomrundocker](https://user-images.githubusercontent.com/48057303/169156644-bb860778-88b8-4f67-be89-c9237c5d035a.png)
+
+
 
 ## Step 3: Build and run the play-codecheck Docker container
 1. Create a file `conf/production.conf` holding an [application
