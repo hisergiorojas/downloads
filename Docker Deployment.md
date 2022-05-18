@@ -413,6 +413,10 @@ Upload a problem and test it.
 gcloud --version
 ```
 
+![gcloudversion](https://user-images.githubusercontent.com/48057303/169158501-ea56883a-4023-4b2f-b414-0736ce5a357c.png)
+
+
+
 ## Step 2: Install AWS CLI
 [follow the instruction for your environment](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
 
