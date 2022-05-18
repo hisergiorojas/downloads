@@ -223,7 +223,8 @@ Upload a problem and test it.
 	The problem files will be located inside the /opt/codecheck/ext directory.
 ---
 
-![codecheckweb.png](/home/sergiorojas/Downloads/codecheckweb.png)
+![codecheckweb](https://user-images.githubusercontent.com/48057303/169155965-de8bbb6d-ef88-4bb2-a69d-af853b817560.png)
+
 
 
 Debugging the Server
@@ -301,7 +302,10 @@ sudo docker run hello-world
 ``` 
 This command downloads a test image and runs it in a container. When the container runs, it prints a message and exits.
 
-![dockerhelloworld.png](/home/sergiorojas/Downloads/dockerhelloworld.png)
+
+![dockerhelloworld](https://user-images.githubusercontent.com/48057303/169156322-682b2283-d32c-4c70-80fb-b8215f3d7061.png)
+
+
 
 
 ## Step 2: Build and run the comrun service Docker container
