@@ -597,6 +597,9 @@ Here is how to deploy the `comrun` service to [Google Cloud](https://cloud.googl
       --memory=512Mi \
       --concurrency=40
 
+![deploycomrun](https://user-images.githubusercontent.com/48057303/169159328-d52cc661-0725-46f0-abc1-d925f4808e50.png)
+
+
 You should get a URL for the service. Make a note of it---it won\'t
 change, and you need it in the next steps. To test that the service is
 properly deployed, do this:
