@@ -485,15 +485,23 @@ Here is how to deploy the `comrun` service to [Google Cloud](https://cloud.googl
 
 1. Make a [Google Cloud Run](https://console.cloud.google.com/run?project) project. Define a service `comrun`.
 
-![googlecloudhome.png](/home/sergiorojas/Downloads/googlecloudhome.png)
+![googlecloudhome](https://user-images.githubusercontent.com/48057303/169101757-a6366686-bf4c-4e04-b530-30c80516cf10.png)
+
+
 
 * Click on Create Service
 ![clickoncreateservice.png](/home/sergiorojas/Downloads/clickoncreateservice.png)
 ![](/home/sergiorojas/Downloads/createService.png)
 
+![clickoncreateservice](https://user-images.githubusercontent.com/48057303/169101874-94b70641-445b-45e8-9c42-74fa9a9ca63f.png)
+
+
 * For Deploy one revision from an existing container image: Click on Test With a Sample Container
 
 ![](/home/sergiorojas/Downloads/testWithSampleContainers.png)
+![testWithSampleContainers](https://user-images.githubusercontent.com/48057303/169101954-5c8dcdcf-6be7-4bb7-a08d-fc52fd5989d2.png)
+
+
 
   * Change the Service name to Comrun
 
