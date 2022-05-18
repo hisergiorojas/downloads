@@ -89,7 +89,11 @@ sudo apt-get install sbt
 sbt --version
 ```
 
-![sbtversion.png](/home/sergiorojas/Downloads/sbtversion.png)
+
+
+![sbtversion](https://user-images.githubusercontent.com/48057303/169154902-30d26769-fe37-4ee3-99c1-44a73f37c1a7.png)
+
+
 
 ## Step 4: Setup Codecheck environment
 
@@ -143,7 +147,11 @@ sbt --version
   ```
   ant -f cli/build.xml
   ```
-![buildcommandlinetool.png](/home/sergiorojas/Downloads/buildcommandlinetool.png)
+
+![buildcommandlinetool](https://user-images.githubusercontent.com/48057303/169154726-91fdef5e-22bc-40f7-a429-52b9c791958d.png)
+
+
+
  4. To verify that it works
 
   ```
@@ -382,6 +390,10 @@ Upload a problem and test it.
   ```
   ./google-cloud-sdk/install.sh
   ```
+  
+  ![installgooglecloudsdk](https://user-images.githubusercontent.com/48057303/169154454-647831e1-a6ae-49f7-aad9-2037decaff30.png)
+
+  
 
 4. To initialize the gcloud CLI, run gcloud init
 
