@@ -601,10 +601,24 @@ Alternatively, you can test with the locally running web app. In
   Go to your [google cloud Run](https://console.cloud.google.com/run)
 
   - Click on a comrun service
+![scaleClickOnComrunService](https://user-images.githubusercontent.com/48057303/169096351-cf2e1e60-276f-48d8-bf80-45fdb6bfe78e.png)
+
+
   - Click on Edit and Deploy New Revision
+![ScaleClickonEditandDeployNewRevision](https://user-images.githubusercontent.com/48057303/169096311-75e36e7f-2538-492c-a947-9127e8586786.png)
+
+
   - Under Capacity you can change the Memory and CPU settings
+
+
   - Under Capacity you can change the Maximum requests per container (Concurrency)
+
+![Under Capacity you can change the Maximum requests per container](https://user-images.githubusercontent.com/48057303/169096113-0238440d-c15a-4024-90f0-6104d424f179.png)
+
   - Under Autoscaling you can change the Minimum and Maximum instances
+![Under Autoscaling you can change the Minimum and Maximum instances](https://user-images.githubusercontent.com/48057303/169095779-961622f0-7764-4086-8a48-ac061534e4bc.png)
+
+
   - Click on Deploy
 
 ![autoscalingDeploy](https://user-images.githubusercontent.com/48057303/169094166-0cb64427-8354-4d9d-9068-da17eafde614.png)
@@ -753,56 +767,6 @@ Deploy the `play-codecheck` service:
 
 You will get a URL for the service. Now point your browser to
 `https://service url/assets/uploadProblem.html` and upload a problem
-
-
-
-
-  
-
-
-
-
-
-
-
- 
-  
-
-
-
-
-
-
-
-
-     
-      
-
-    
-     
-
-
-
-  
-
-
-  
-
-  
-
-
-  
-
-  
-
-  
-
- 
-
-
-
-
-
 
 
 
