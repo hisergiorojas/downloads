@@ -526,7 +526,6 @@ Here is how to deploy the `comrun` service to [Google Cloud](https://cloud.googl
 
 * For Deploy one revision from an existing container image: Click on Test With a Sample Container
 
-![](/home/sergiorojas/Downloads/testWithSampleContainers.png)
 ![testWithSampleContainers](https://user-images.githubusercontent.com/48057303/169101954-5c8dcdcf-6be7-4bb7-a08d-fc52fd5989d2.png)
 
 
@@ -541,7 +540,7 @@ Here is how to deploy the `comrun` service to [Google Cloud](https://cloud.googl
 
   * CPU allocation and pricing should be CPU is only allocated during request processing
 
-![](/home/sergiorojas/Downloads/cpuAllocation.png)
+![cpuAllocation](https://user-images.githubusercontent.com/48057303/169282119-01dead41-b46c-45f4-a81f-a97c25100b53.png)
 
 
   * Authentication should be Allow unauthenticated invocations
@@ -551,10 +550,12 @@ Here is how to deploy the `comrun` service to [Google Cloud](https://cloud.googl
   
 *  Click on Create
 
-![](/home/sergiorojas/Downloads/createComrun.png)
+![createComrun](https://user-images.githubusercontent.com/48057303/169282239-daf62b90-1023-48ad-95b4-cdbd536f8db2.png)
+
 
 * Success
-![](/home/sergiorojas/Downloads/comrunsHome.png)
+![comrunsHome](https://user-images.githubusercontent.com/48057303/169282268-5abbcc5d-9ac5-41ae-8ef7-44f4d9db2c43.png)
+
 
 2. Get the comrun service project name
 
