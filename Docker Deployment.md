@@ -600,6 +600,7 @@ Here is how to deploy the `comrun` service to [Google Cloud](https://cloud.googl
 
 4. Deploy the Comrun service
 
+    ```
     docker tag codecheck:1.0-SNAPSHOT gcr.io/$PROJECT/comrun
     docker push gcr.io/$PROJECT/comrun
 
@@ -613,6 +614,8 @@ Here is how to deploy the `comrun` service to [Google Cloud](https://cloud.googl
       --max-instances=50 \
       --memory=512Mi \
       --concurrency=40
+     ``` 
+      
 
 ![deploycomrun](https://user-images.githubusercontent.com/48057303/169159328-d52cc661-0725-46f0-abc1-d925f4808e50.png)
 
