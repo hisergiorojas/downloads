@@ -692,7 +692,7 @@ the uploaded CodeCheck problems. Set the ACL so that the bucket owner has all ac
 
   Name your bucket with ext.
 
-![](/home/sergiorojas/Downloads/Screenshot%205-12-2022%2010-30-08%20AM.png)
+![awsgeneralconfiguration](https://user-images.githubusercontent.com/48057303/169339512-b37129f9-872a-433b-b644-4ee08ff5f2b3.png)
 
   * Bucket Name: ext.mydomain.com
   * AWS Region: us-west-1
