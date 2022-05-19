@@ -354,11 +354,13 @@ secret](https://www.playframework.com/documentation/2.8.x/ApplicationSecret):
 echo "play.http.secret.key=\"$(head -c 32 /dev/urandom | base64)\"" > conf/production.conf
 echo "com.horstmann.codecheck.comrun.remote=\"http://host.docker.internal:8080/api/upload\"" >> conf/production.conf
 ```
+---
+**NOTE**
+
+Do not check this file into version control
 
 ---
-** Note **
-Do not check this file into version control
----
+
 
 
   2. From the root directory of the repository, build the Docker image
