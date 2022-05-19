@@ -550,12 +550,11 @@ Here is how to deploy the `comrun` service to [Google Cloud](https://cloud.googl
 
 
   * Change the Service name to Comrun
+  * Don't change the Region default value
+
 ![comrunservicename](https://user-images.githubusercontent.com/48057303/169281564-d4f6f4bf-e8ca-44e2-84e3-77e94a89d80f.png)
 
 
-  * Don't change the Region default value
-
-![](/home/sergiorojas/Downloads/defaultRegion.png)
 
   * CPU allocation and pricing should be CPU is only allocated during request processing
 
