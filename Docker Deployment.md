@@ -223,10 +223,15 @@ COMRUN_USER=$(whoami) sbt run
 To verify that it works, point the browser to <http://localhost:9000/assets/uploadProblem.html>.
 Upload a problem and test it.
 
+The problem files will be located inside the /opt/codecheck/ext directory.
+
 ---
-**Notes**
-	The problem files will be located inside the /opt/codecheck/ext directory.
+**NOTE**
+
+The problem files will be located inside the /opt/codecheck/ext dirctory.
+
 ---
+
 
 ![codecheckweb](https://user-images.githubusercontent.com/48057303/169155965-de8bbb6d-ef88-4bb2-a69d-af853b817560.png)
 
