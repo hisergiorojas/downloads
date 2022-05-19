@@ -700,8 +700,8 @@ the uploaded CodeCheck problems. Set the ACL so that the bucket owner has all ac
 
 
   Click on Create Bucket
+![awscreatebucket](https://user-images.githubusercontent.com/48057303/169297209-2e62a36e-d091-43ce-841e-d074c20a583f.png)
 
-![Screenshot 5-12-2022 10-25-52 AM.png](/home/sergiorojas/Downloads/Screenshot%205-12-2022%2010-25-52%20AM.png)
   Name your bucket with ext.
 
 ![](/home/sergiorojas/Downloads/Screenshot%205-12-2022%2010-30-08%20AM.png)
@@ -710,12 +710,12 @@ the uploaded CodeCheck problems. Set the ACL so that the bucket owner has all ac
   * AWS Region: us-west-1
 
 For object ownership set it to ACLs disabled
-![](/home/sergiorojas/Downloads/Screenshot%205-12-2022%2010-38-24%20AM.png)
+![awsaclblock](https://user-images.githubusercontent.com/48057303/169297707-d2e3efc1-03bf-4122-abdd-92956f11c054.png)
 
 
   * uncheck Block all public access
 
-![](/home/sergiorojas/Downloads/Screenshot%205-12-2022%2010-47-16%20AM.png)
+![awsblockallpublicaccess](https://user-images.githubusercontent.com/48057303/169297764-ec17164f-7ac1-49a2-a1a1-1214f23806ae.png)
 
 * Bucket Versioning: Disable
 * Set Default encryption to Disable
