@@ -488,12 +488,20 @@ AWS CLI prompts you for four pieces of information:
   ```
   gcloud auth login
   ```
+  ![googlecloudcliauthenticated](https://user-images.githubusercontent.com/48057303/169357922-9cae6338-1d30-4866-92dd-84149b47233d.png)
+
+  
 
   3. Configure Docker with the following command
 
   ```
   gcloud auth configure-docker
   ```
+  
+  ![googlecloudconfiguredocker](https://user-images.githubusercontent.com/48057303/169357844-77f90acd-3bdf-4e1a-b132-8283af478a1c.png)
+  
+
+
 
   Your credentials are saved in your user home directory
 
