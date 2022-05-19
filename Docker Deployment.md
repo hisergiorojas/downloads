@@ -158,8 +158,12 @@ sbt --version
   /opt/codecheck/codecheck -t samples/java/example1
   ```
 
+
 If you omit the -t, you get a report with your default browser instead of the text report.
-![verifycommandlinetool.png](/home/sergiorojas/Downloads/verifycommandlinetool.png)
+
+  ![verifycommandlinetool](https://user-images.githubusercontent.com/48057303/169294619-717a3b51-9ee4-4093-8eb2-810acf9c128e.png)
+
+
 
 Debugging the Command Line Tool
 -------------------------------
@@ -573,10 +577,10 @@ Here is how to deploy the `comrun` service to [Google Cloud](https://cloud.googl
  
 
 
-![comrunprojectname](https://user-images.githubusercontent.com/48057303/169282855-6b1c8529-4f22-4fc0-87d9-e24ba89bb5d5.png)
 
 
 
+![conrumprojectnames](https://user-images.githubusercontent.com/48057303/169283558-8948d981-bc05-405b-86af-c59ff1f73292.png)
 
 
 
