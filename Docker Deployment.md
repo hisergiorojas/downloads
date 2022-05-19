@@ -524,7 +524,6 @@ Here is how to deploy the `comrun` service to [Google Cloud](https://cloud.googl
 
 
 * Click on Create Service
-![clickoncreateservice.png](/home/sergiorojas/Downloads/clickoncreateservice.png)
 
 ![clickoncreateservice](https://user-images.githubusercontent.com/48057303/169101874-94b70641-445b-45e8-9c42-74fa9a9ca63f.png)
 
