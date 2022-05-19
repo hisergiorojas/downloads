@@ -676,6 +676,7 @@ Alternatively, you can test with the locally running web app. In
 
   - Under Capacity you can change the Memory and CPU settings
 
+![scalemememorycpu](https://user-images.githubusercontent.com/48057303/169363823-ac9ad49a-d7e7-4229-985e-aa74b8b05c62.png)
 
   - Under Capacity you can change the Maximum requests per container (Concurrency)
 
