@@ -570,12 +570,10 @@ Here is how to deploy the `comrun` service to [Google Cloud](https://cloud.googl
 
 
 
-  
-
-  ![conrumprojectnames.png](/home/sergiorojas/Pictures/conrumprojectnames.png)
+ 
 
 
-
+![comrunprojectname](https://user-images.githubusercontent.com/48057303/169282855-6b1c8529-4f22-4fc0-87d9-e24ba89bb5d5.png)
 
 
 
@@ -631,6 +629,7 @@ Alternatively, you can test with the locally running web app. In
   ```
   https://service url/api/health
   ```
+![comrunapihealth](https://user-images.githubusercontent.com/48057303/169283018-737a026b-d468-462e-9711-129e94cac035.png)
 
 
 
