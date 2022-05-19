@@ -761,33 +761,43 @@ Add the following to `conf/production.conf`:
   1. Go to your  account
 
   2. Click on your profile that is on the top right
-
---
-**Note**
-comrun remote url is the google cloud run service url. To get the URL of the comrun service. Go to your Google Cloud account and then go to your comrun service and there should be a url.
---
-
-
   
+---
+**NOTE**
+
+comrun remote url is the google cloud run service url. To get the URL of the comrun service. Go to your Google Cloud account and then go to your comrun service and there should be a url.
+
+---
+
 
 
 ---
 **Error:** java.util.NoSuchElementException: submissionrun1/_run
- Solution: Update the production.conf file with /api/upload append at the end of the comrun remoute url. ``` com.horstmann.codecheck.comrun.remote="https://comrun-url/api/upload/"```
+
+Solution: Update the production.conf file with /api/upload append at the end of the comrun remoute url. ``` com.horstmann.codecheck.comrun.remote="https://comrun-url/api/upload/"```
+
 ---
+
+
+
+
 
 ---
 **Error:** Unknown Host Exception: host.docker.internal
- Solution: Add this to production.conf ``` com.horstmann.codecheck.storeLocation=""```
+
+java.util.NoSuchElementException: submissionrun1/_run
+
 ---
 
+
+  
 ---
 **Error:** Deployment failed: (gcloud.run.deploy)
+
  Cloud Run Error: Container failed to start. Failed to start and then listen on the port defined by the PORT environment variable. Logs for this revision might contain more information.
 Solution: Add this to production.conf ``` com.horstmann.codecheck.storeLocation=""```
----
-  
 
+---
 
 
 
