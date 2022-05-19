@@ -620,6 +620,10 @@ properly deployed, do this:
 You should get a report that was obtained by sending the compile and run
 jobs to your remote service.
 
+
+![testcomrundeployment](https://user-images.githubusercontent.com/48057303/169347316-169d3fbb-faf6-4a62-8cd3-a28093cd777a.png)
+
+
 Alternatively, you can test with the locally running web app. In
 `conf/production.conf`, you need to add
 
