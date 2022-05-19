@@ -51,7 +51,7 @@ is called `codecheck`. It is created by the `cli/build.xml` Ant script.
   - gcloud CLI SDK [https://cloud.google.com](https://cloud.google.com/)
   - AWS CLI [https://aws.amazon.com](https://aws.amazon.com/)
 
-# Build Instructions Build the web application locally
+# Build instructions to build the web application locally
 
 ## Step 1: Download Codecheck codebase
 Clone the the codecheck repository using git
