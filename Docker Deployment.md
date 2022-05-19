@@ -532,8 +532,8 @@ Here is how to deploy the `comrun` service to [Google Cloud](https://cloud.googl
 
 
   * Change the Service name to Comrun
+![comrunservicename](https://user-images.githubusercontent.com/48057303/169281564-d4f6f4bf-e8ca-44e2-84e3-77e94a89d80f.png)
 
-![](/home/sergiorojas/Downloads/comrunservicename.png)
 
   * Don't change the Region default value
 
@@ -546,7 +546,8 @@ Here is how to deploy the `comrun` service to [Google Cloud](https://cloud.googl
 
   * Authentication should be Allow unauthenticated invocations
 
-![](/home/sergiorojas/Downloads/comrunAuthentication.png)
+![comrunAuthentication](https://user-images.githubusercontent.com/48057303/169281798-3e5daacf-2666-46c2-b412-b980f3f2baa5.png)
+
   
 *  Click on Create
 
