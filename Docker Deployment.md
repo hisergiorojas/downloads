@@ -571,7 +571,7 @@ Here is how to deploy the `comrun` service to [Google Cloud](https://cloud.googl
 ![createComrun](https://user-images.githubusercontent.com/48057303/169282239-daf62b90-1023-48ad-95b4-cdbd536f8db2.png)
 
 
-* Success
+* Successfully created page
 ![comrunsHome](https://user-images.githubusercontent.com/48057303/169282268-5abbcc5d-9ac5-41ae-8ef7-44f4d9db2c43.png)
 
 
