@@ -7,6 +7,7 @@ CodeCheck<sup>®</sup>
 Codecheck is an anonymous, author-friendly autograder. It is optimized for simple programming assignments that provide practice and build confidence.
 
 
+![codecheck](https://user-images.githubusercontent.com/48057303/169348295-e4eba28d-926a-4be3-82f5-b88cb58ac1e5.png)
 
 
 
