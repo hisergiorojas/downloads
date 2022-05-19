@@ -666,18 +666,6 @@ Alternatively, you can test with the locally running web app. In
 
 ![autoscalingDeploy](https://user-images.githubusercontent.com/48057303/169094166-0cb64427-8354-4d9d-9068-da17eafde614.png)
 
-
-
-
-
-
-
-
-
-
-
-   
-
   
 
 Step 5: Play Server Deployment {#server-deployment}
@@ -726,7 +714,7 @@ For object ownership set it to ACLs disabled
 ![](/home/sergiorojas/Downloads/Screenshot%205-12-2022%2010-49-18%20AM.png)
   
 Successfully created bucket Message
-![](/home/sergiorojas/Downloads/Screenshot%205-12-2022%2010-53-02%20AM.png)
+![awssuccessfulbucket](https://user-images.githubusercontent.com/48057303/169315187-4b63bdee-24cb-4874-8f54-5efa4e3889fd.png)
 
 In your [Google Cloud Run](https://console.cloud.google.com/run?project) project, add another service `play-codecheck`.
 
