@@ -412,7 +412,8 @@ Upload a problem and test it.
   ./google-cloud-sdk/bin/gcloud init
   ```
   
-  
+  ![initializegcloudCLI](https://user-images.githubusercontent.com/48057303/169318036-854d195f-5132-4540-8c67-0f6767de9556.png)
+
 
 5. Confirm the installation with the following command
 ```
