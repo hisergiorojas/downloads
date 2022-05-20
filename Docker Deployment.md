@@ -763,6 +763,12 @@ Add the following to `conf/production.conf`:
 ![awsconsolehome](https://user-images.githubusercontent.com/48057303/169573227-7ab6c810-b1ef-49e1-9968-d1e646deecf0.png)
 
   2. Click on your profile that is on the top right
+
+![awsclickonmenu](https://user-images.githubusercontent.com/48057303/169574934-e9419ffc-1218-4142-9187-5b6267a189c5.png)
+
+  3. 
+
+
   
 ---
 **NOTE**
