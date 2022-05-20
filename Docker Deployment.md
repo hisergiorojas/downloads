@@ -771,6 +771,8 @@ Add the following to `conf/production.conf`:
 ![awssecuritycreds](https://user-images.githubusercontent.com/48057303/169587270-b8650db0-d582-4fb8-9d59-81773b874bcc.png)
   4.
   ![createaccesskey](https://user-images.githubusercontent.com/48057303/169595171-6b53979a-1287-47d5-bd8a-0ed64235d8a4.png)
+  5.
+  ![awsnewaccesskey](https://user-images.githubusercontent.com/48057303/169597502-b5e59692-f072-438e-b8ed-59e9702556c3.png)
 
   
 ---
