@@ -758,7 +758,9 @@ Add the following to `conf/production.conf`:
 
 ## How to get AWS creditional
 
-  1. Go to your  account
+  1. Go to your aws console home
+  
+![awsconsolehome](https://user-images.githubusercontent.com/48057303/169573227-7ab6c810-b1ef-49e1-9968-d1e646deecf0.png)
 
   2. Click on your profile that is on the top right
   
