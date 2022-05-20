@@ -768,6 +768,7 @@ Add the following to `conf/production.conf`:
 
   3. 
 
+![awssecuritycreds](https://user-images.githubusercontent.com/48057303/169587270-b8650db0-d582-4fb8-9d59-81773b874bcc.png)
 
   
 ---
