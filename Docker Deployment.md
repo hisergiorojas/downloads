@@ -480,6 +480,24 @@ AWS CLI prompts you for four pieces of information:
 ![awsconfigure](https://user-images.githubusercontent.com/48057303/169159727-4ced9d55-dbfb-405f-93ea-9be3e87bf743.png)
 
 
+## How to get AWS creditional
+
+  1. Go to your aws console home
+  
+![awsconsolehome](https://user-images.githubusercontent.com/48057303/169573227-7ab6c810-b1ef-49e1-9968-d1e646deecf0.png)
+
+  2. Click on your profile that is on the top right
+
+![awsclickonmenu](https://user-images.githubusercontent.com/48057303/169574934-e9419ffc-1218-4142-9187-5b6267a189c5.png)
+
+  3. 
+
+![awssecuritycreds](https://user-images.githubusercontent.com/48057303/169587270-b8650db0-d582-4fb8-9d59-81773b874bcc.png)
+  4.
+  ![createaccesskey](https://user-images.githubusercontent.com/48057303/169595171-6b53979a-1287-47d5-bd8a-0ed64235d8a4.png)
+  5.
+  ![awsnewaccesskey](https://user-images.githubusercontent.com/48057303/169597502-b5e59692-f072-438e-b8ed-59e9702556c3.png)
+
 ## Step 3: Authenticate with Google Cloud Container Registry
 
   [Follow the instruction for your environment](https://cloud.google.com/container-registry/docs/advanced-authentication)
@@ -756,23 +774,6 @@ Add the following to `conf/production.conf`:
 
 
 
-## How to get AWS creditional
-
-  1. Go to your aws console home
-  
-![awsconsolehome](https://user-images.githubusercontent.com/48057303/169573227-7ab6c810-b1ef-49e1-9968-d1e646deecf0.png)
-
-  2. Click on your profile that is on the top right
-
-![awsclickonmenu](https://user-images.githubusercontent.com/48057303/169574934-e9419ffc-1218-4142-9187-5b6267a189c5.png)
-
-  3. 
-
-![awssecuritycreds](https://user-images.githubusercontent.com/48057303/169587270-b8650db0-d582-4fb8-9d59-81773b874bcc.png)
-  4.
-  ![createaccesskey](https://user-images.githubusercontent.com/48057303/169595171-6b53979a-1287-47d5-bd8a-0ed64235d8a4.png)
-  5.
-  ![awsnewaccesskey](https://user-images.githubusercontent.com/48057303/169597502-b5e59692-f072-438e-b8ed-59e9702556c3.png)
 
   
 ---
