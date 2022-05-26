@@ -156,7 +156,7 @@ sbt --version
  4. To verify that it works
 
   ```
-  /opt/codecheck/codecheck -t samples/java/example1
+  sudo /opt/codecheck/codecheck -t samples/java/example1
   ```
 
 
